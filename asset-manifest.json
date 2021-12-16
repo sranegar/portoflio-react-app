@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/portoflio-react-app/static/css/main.8cae6752.css",
-    "main.js": "/portoflio-react-app/static/js/main.013adcc2.js",
+    "main.js": "/portoflio-react-app/static/js/main.fae4d3e7.js",
     "index.html": "/portoflio-react-app/index.html",
     "main.8cae6752.css.map": "/portoflio-react-app/static/css/main.8cae6752.css.map",
-    "main.013adcc2.js.map": "/portoflio-react-app/static/js/main.013adcc2.js.map"
+    "main.fae4d3e7.js.map": "/portoflio-react-app/static/js/main.fae4d3e7.js.map"
   },
   "entrypoints": [
     "static/css/main.8cae6752.css",
-    "static/js/main.013adcc2.js"
+    "static/js/main.fae4d3e7.js"
   ]
 }
